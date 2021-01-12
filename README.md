@@ -18,24 +18,24 @@ A technology enthusiast who loves to explore new technologies and leverage it to
 
  <br />
 <p align="center">
-<img src="https://git-scm.com/images/logos/logomark-orange@2x.png" alt="" width="40" height="40"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original.svg" alt="" width="40" height="40"/>
-<img src="https://azure.github.io/azure-sdk/images/azure-icon.png" alt="" width="40" height="40"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original.svg" alt="" width="40" height="40"/>
-<img src="https://avatars3.githubusercontent.com/u/13629408?s=200&v=4" alt="" width="40" height="40"/>
-<img src="https://vectorified.com/images/agile-icon-29.png" alt="" width="40" height="40"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-plain.svg" alt="" width="40" height="40"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original.svg" alt="" width="40" height="40"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original.svg" alt="" width="40" height="40"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="" width="40" height="40"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/gradle/gradle-plain.svg" alt="" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/intellig.png" alt="" width="40" height="40"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="" width="40" height="40"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/angularjs/angularjs-original.svg" alt="" width="40" height="40"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="" width="40" height="40"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="" width="40" height="40"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/npm/npm-original-wordmark.svg" alt="" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/ridixcr/ridixcr/master/resources/icons/git.svg" alt="" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/ridixcr/ridixcr/master/resources/icons/amazonwebservices-original.svg" alt="" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/ridixcr/ridixcr/master/resources/icons/azure-offical.svg" alt="" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/ridixcr/ridixcr/master/resources/icons/docker-original.svg" alt="" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/ridixcr/ridixcr/master/resources/icons/kubernetes.svg" alt="" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/ridixcr/ridixcr/master/resources/icons/agile.png" alt="" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/ridixcr/ridixcr/master/resources/icons/linux-plain.svg" alt="" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/ridixcr/ridixcr/master/resources/icons/java-original.svg" alt="" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/ridixcr/ridixcr/master/resources/icons/nodejs-original.svg" alt="" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/ridixcr/ridixcr/master/resources/icons/php-original.svg" alt="" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/ridixcr/ridixcr/master/resources/icons/gradle-plain.svg" alt="" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/ridixcr/ridixcr/master/resources/icons/IntelliJ_IDEA_Logo.svg" alt="" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/ridixcr/ridixcr/master/resources/icons/typescript-original.svg" alt="" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/ridixcr/ridixcr/master/resources/icons/angularjs-original.svg" alt="" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/ridixcr/ridixcr/master/resources/icons/css3-original-wordmark.svg" alt="" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/ridixcr/ridixcr/master/resources/icons/html5-original-wordmark.svg" alt="" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/ridixcr/ridixcr/master/resources/icons/npm-original-wordmark.svg" alt="" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/ridixcr/ridixcr/master/resources/icons/vscode.svg" alt="" width="40" height="40"/>
  </p>
 <div align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=ridixcr&show_icons=true&hide_title=true&hide_border=true&count_private=true&hide=contribs" alt="ridixcr" />
